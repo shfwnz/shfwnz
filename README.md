@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/shfwnz/shfwnz/output/snake.svg" alt="Snake animation" />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shfwnz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
