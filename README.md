@@ -12,13 +12,13 @@
 ## 🌐 Socials:
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank" style="text-decoration: none; display: inline-block;">
+  <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/shffky_" target="_blank" style="text-decoration: none; display: inline-block;">
+  <a href="https://www.instagram.com/shffky_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
   </a>
-  <a href="https://discord.com/users/shfwn_" target="_blank" style="text-decoration: none; display: inline-block;">
+  <a href="https://discord.com/users/shfwn_" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
   </a>
 </div>
@@ -26,7 +26,7 @@
 ## 💻 Tech Stack:
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky">
     <img src="https://skillicons.dev/icons?i=css,js,go,python,php,tailwindcss,bootstrap,mysql,npm,laravel,nodejs,svelte,react,git,github,figma" />
   </a>
 </p>
