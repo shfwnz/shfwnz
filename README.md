@@ -16,17 +16,17 @@
   <a href="https://linkedin.com/in/rosyimuth"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40px"></a>
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
+<div align="left">
+  <a href="httdivs://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40px" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/shffky_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40px" alt="instagram logo" />
   </a>
   <a href="https://discord.com/users/shfwn_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
+    <img src="https://skillicons.dev/icons?i=discord" height="40px" alt="discord logo" />
   </a>
-</p>
+</div>
 
 ## 💻 Tech Stack:
 
