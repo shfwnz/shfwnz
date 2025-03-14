@@ -11,7 +11,7 @@
 
 ## 🌐 Socials:
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
   </a>
@@ -21,7 +21,7 @@
   <a href="https://discord.com/users/shfwn_" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
   </a>
-</div>
+</p>
 
 ## 💻 Tech Stack:
 
