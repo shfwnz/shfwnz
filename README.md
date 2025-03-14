@@ -13,7 +13,9 @@
 
 <p align="left">
   <a href="https://www.instagram.com/shffky_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40px"></a>
-  <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40px"></a>
+  <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40px">
+  </a>
   <a href="https://discord.com/users/shfwn_" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40px" alt="discord logo" />
   </a>
