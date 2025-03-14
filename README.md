@@ -2,10 +2,10 @@
   <img src="ryo.gif" alt="GitHub Banner" width="100%" height="220px" />
 </div>
 
-##
+## Hi, I'm Shafwan Ilham Dzaky
 
 <div align="center">
-  <b style="font-size:40px">Hi, I'm Shafwan Ilham Dzaky</b>
+  <span style="font-size:40px">Hi, I'm Shafwan Ilham Dzaky</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
 </div>
 
