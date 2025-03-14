@@ -19,8 +19,8 @@
   </a>
 </p>
 
-<div align="left">
-  <a href="httdivs://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank">
+<p align="left">
+  <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40px" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/shffky_" target="_blank">
@@ -29,7 +29,7 @@
   <a href="https://discord.com/users/shfwn_" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40px" alt="discord logo" />
   </a>
-</div>
+</p>
 
 ## 💻 Tech Stack:
 
