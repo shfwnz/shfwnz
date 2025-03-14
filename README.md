@@ -14,6 +14,9 @@
 <p align="left">
   <a href="https://instagram.com/rosyimuth" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40px"></a>
   <a href="https://linkedin.com/in/rosyimuth"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40px"></a>
+  <a href="https://discord.com/users/shfwn_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40px" alt="discord logo" />
+  </a>
 </p>
 
 <div align="left">
