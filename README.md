@@ -11,6 +11,11 @@
 
 ## 🌐 Socials:
 
+<p align="left">
+  <a href="https://instagram.com/rosyimuth"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40px"></a>
+  <a href="https://linkedin.com/in/rosyimuth"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40px"></a>
+</p>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
