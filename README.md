@@ -2,9 +2,12 @@
   <img src="ryo.gif" alt="GitHub Banner" width="100%" height="220px" />
 </div>
 
-# 💫 About Me:
+##
 
-🔭 I’m currently learning
+<div align="center">
+  <b style="font-size:25px">Hi, I'm Shafwan Ilham Dzaky</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</div>
 
 ## 🌐 Socials:
 
@@ -20,7 +23,7 @@
   </a>
 </div>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -28,13 +31,13 @@
   </a>
 </p>
 
-# Profile Views:
+## Profile Views:
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/shfwnz/count.svg?"  />
 </div>
 
-#
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shfwnz/shfwnz/output/github-snake-dark.svg" />
@@ -42,15 +45,12 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/shfwnz/shfwnz/output/github-snake.svg" />
 </picture>
 
-#
-
 <!--
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shfwnz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 -->
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
