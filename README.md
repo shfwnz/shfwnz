@@ -11,17 +11,17 @@
 
 ## 🌐 Socials:
 
-<p align="left">
+<div align="left">
   <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" style="display: block;" />
   </a>
   <a href="https://www.instagram.com/shffky_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" style="display: block;" />
   </a>
   <a href="https://discord.com/users/shfwn_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" style="display: block;" />
   </a>
-</p>
+</div>
 
 ## 💻 Tech Stack:
 
