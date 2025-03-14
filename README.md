@@ -2,24 +2,24 @@
   <img src="ryo.gif" alt="GitHub Banner" width="100%" height="220px" />
 </div>
 
-## Hi, I'm Shafwan Ilham Dzaky
+##
 
 <div align="center">
-  <span style="font-size:40px">Hi, I'm Shafwan Ilham Dzaky</span>
+  <b style="font-size:40px">Hi, I'm Shafwan Ilham Dzaky</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
 </div>
 
 ## 🌐 Socials:
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" style="display: block;" />
+  <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/shffky_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" style="display: block;" />
+  <a href="https://www.instagram.com/shffky_">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
   </a>
-  <a href="https://discord.com/users/shfwn_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" style="display: block;" />
+  <a href="https://discord.com/users/shfwn_">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
   </a>
 </div>
 
