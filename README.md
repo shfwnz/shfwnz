@@ -4,11 +4,9 @@
 
 ##
 
-<div align="center" >
-  <ul style="list-style: none; padding: 0;">
-    <li><h1>Hi, I'm Shafwan Ilham Dzaky</h1></li>
-    <li><h2>FullStack Web Dev | IT Enthusiast</h2></li>
-  </ul>
+<div align="center">
+  <h1>Hi, I'm Shafwan Ilham Dzaky</h1>
+  <h2>FullStack Web Dev | IT Enthusiast</h2>
 </div>
 
 ## 🌐 Socials:
