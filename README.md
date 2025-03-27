@@ -5,9 +5,9 @@
 ##
 
 <div align="center" >
-  <ul>
-    <summary><h1>Hi, I'm Shafwan Ilham Dzaky</h1></summary>
-    <summary><h2> FullStack Web Dev | IT Enthusiast</h2></summary>
+  <ul style="list-style: none; padding: 0;">
+    <li><h1>Hi, I'm Shafwan Ilham Dzaky</h1></li>
+    <li><h2>FullStack Web Dev | IT Enthusiast</h2></li>
   </ul>
 </div>
 
