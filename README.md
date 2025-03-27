@@ -4,16 +4,13 @@
 
 ##
 
-<div align="center">
-  <b style="font-size:40px">Hi, I'm Shafwan Ilham Dzaky</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
-
-</div>
-
-<br>
-
-<div>
-  <span>FullStack Web Dev | IT Enthusiast</span>
+<div style="text-align: center; margin-top: 20px;">
+  <h1 style="font-size: 40px; display: inline;">Hi, I'm Shafwan Ilham Dzaky</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" alt="Waving Hand">
+  
+  <p style="font-size: 20px; font-weight: bold; margin-top: 10px;">
+    FullStack Web Dev | IT Enthusiast
+  </p>
 </div>
 
 ## 🌐 Socials:
