@@ -8,7 +8,11 @@
   <b style="font-size:40px">Hi, I'm Shafwan Ilham Dzaky</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
 
-  <br>
+</div>
+
+<br>
+
+<div>
   <span>FullStack Web Dev | IT Enthusiast</span>
 </div>
 
