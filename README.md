@@ -5,7 +5,7 @@
 ##
 
 <div align="center">
-  <b style="font-size:80px">Hi, I'm Shafwan Ilham Dzaky</b>
+  <span style="font-size:80px">Hi, I'm Shafwan Ilham Dzaky</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
 </div>
 
