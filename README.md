@@ -7,7 +7,6 @@
 <div align="center" >
   <h1>
     Hi, I'm Shafwan Ilham Dzaky
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
   </h1>
   <h2> FullStack Web Dev | IT Enthusiast</h2>
 </div>
