@@ -6,7 +6,7 @@
 
 <div align="center" >
   <summary><h1>Hi, I'm Shafwan Ilham Dzaky</h1></summary>
-  <h2> FullStack Web Dev | IT Enthusiast</h2>
+  <summary><h2> FullStack Web Dev | IT Enthusiast</h2></summary>
 </div>
 
 ## 🌐 Socials:
