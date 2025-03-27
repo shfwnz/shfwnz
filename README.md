@@ -4,12 +4,12 @@
 
 ##
 
-<div align="center">
+<div align="center" style="text-decoration: none;">
   <h1>
     Hi, I'm Shafwan Ilham Dzaky
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
   </h1>
-  <h3 style="text-decoration: none;"> FullStack Web Dev | IT Enthusiast</h3>
+  <h3> FullStack Web Dev | IT Enthusiast</h3>
 </div>
 
 <br>
