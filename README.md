@@ -1,18 +1,10 @@
 <div align="center">
-  <img src="ryo.gif" alt="GitHub Banner" width="100%" style="max-height: 220px; object-fit: cover;" />
+  <img src="ryo.gif" alt="GitHub Banner" width="100%" style="max-height: 200px; object-fit: cover;" />
 </div>
 
 # Hi there, I'm Shafwan Ilham Dzaky 👋
 
 > FullStack Web Developer | IT Enthusiast
-
-<img 
-  align="right"
-  src="https://github.com/user-attachments/assets/e43e5661-f045-41c8-970c-af7583ab018a" 
-  alt="sleepy-ryo" 
-  width="180px"
-  style="border-radius: 10px;" 
-/>
 
 ## 🚀 About Me
 
@@ -22,6 +14,14 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 - 🌱 Learning: Go for Web <!-- [What you're learning] -->
 - 👯 Looking to collaborate on: Open source web projects
 - 💬 Ask me about: Web development, Anime
+
+<img 
+  align="right"
+  src="https://github.com/user-attachments/assets/e43e5661-f045-41c8-970c-af7583ab018a" 
+  alt="sleepy-ryo" 
+  width="180px"
+  style="border-radius: 10px;" 
+/>
 
 ## 🌐 Socials
 
@@ -67,8 +67,8 @@ Brief description of what this project does and the technologies used.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shfwnz&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height=40% />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shfwnz&theme=dark&hide_border=false" alt="GitHub Streak" height=40% />
 </div>
 
 ## 👀 Profile Views
