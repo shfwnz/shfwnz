@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ryo.gif" alt="GitHub Banner" width="100%" style="max-height: 200px; object-fit: cover;" />
+  <img src="ryo.gif" alt="GitHub Banner" width="100%" height="200px" style="object-fit: cover;" />
 </div>
 
 # Hi there, I'm Shafwan Ilham Dzaky 👋
@@ -67,8 +67,8 @@ Brief description of what this project does and the technologies used.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height=40% />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shfwnz&theme=dark&hide_border=false" alt="GitHub Streak" height=40% />
+  <img src="https://github-readme-stats.vercel.app/api?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shfwnz&theme=dark&hide_border=false" alt="GitHub Streak" height="150px" />
 </div>
 
 ## 👀 Profile Views
