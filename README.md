@@ -1,15 +1,29 @@
 <div align="center">
-  <img src="ryo.gif" alt="GitHub Banner" width="100%" height="220px" />
+  <img src="ryo.gif" alt="GitHub Banner" width="100%" style="max-height: 220px; object-fit: cover;" />
 </div>
 
-##
+# Hi there, I'm Shafwan Ilham Dzaky 👋
 
-<div align="center">
-  <h3>Hi, I'm Shafwan Ilham Dzaky</h3>
-  <span>FullStack Web Dev | IT Enthusiast</span>
-</div>
+> FullStack Web Developer | IT Enthusiast
 
-## 🌐 Socials:
+<img 
+  align="right"
+  src="https://github.com/user-attachments/assets/e43e5661-f045-41c8-970c-af7583ab018a" 
+  alt="sleepy-ryo" 
+  width="180px"
+  style="border-radius: 10px;" 
+/>
+
+## 🚀 About Me
+
+I'm a passionate FullStack Developer focused on creating clean, efficient web solutions. I enjoy tackling complex problems and continuously learning new technologies to improve my skills.
+
+- 🔭 Currently working on: [stevie](https://github.com/Andersun71/stevie.git) <!-- [Your current project] -->
+- 🌱 Learning: Go for Web <!-- [What you're learning] -->
+- 👯 Looking to collaborate on: Open source web projects
+- 💬 Ask me about: Web development, Anime
+
+## 🌐 Socials
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40px"></a>
@@ -17,37 +31,53 @@
   <a href="https://discord.com/users/shfwn_" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40px" alt="discord logo" /></a>
 </div>
 
-<a href="https://www.youtube.com/embed/pZuv1yRz0Ek?autoplay=1&start=74&end=78&modestbranding=1&showinfo=0&mute=0&fs=0&controls=0&disablekb=1&cc_load_policy=1&iv_load_policy=3&playsinline=1&color=white">
-  <img 
-    align="right"
-    src="https://github.com/user-attachments/assets/e43e5661-f045-41c8-970c-af7583ab018a" 
-    alt="sleepy-ryo" 
-    style="width: 163px; height: auto;" 
-  />
-</a>
+## 💻 Tech Stack
 
-## 💻 Tech Stack:
+<!-- ### Frontend -->
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky">
-    <img src="https://skillicons.dev/icons?i=css,js,go,python,php,tailwindcss,bootstrap,mysql,npm,laravel,nodejs,svelte,react,git,github,figma" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,svelte,bootstrap,tailwindcss" />
 </p>
 
-## Profile Views:
+<!-- ### Backend -->
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,go" />
+</p>
+
+<!-- ### Database & Tools -->
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,npm,figma" />
+</p>
+
+<!--
+## 🏆 Featured Projects
+
+### [Project Name](project-link)
+
+Brief description of what this project does and the technologies used.
+
+### [Another Project](project-link)
+
+Brief description of what this project does and the technologies used.
+
+-->
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shfwnz&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+
+## 👀 Profile Views
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/shfwnz/count.svg?"  />
 </div>
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shfwnz&theme=dark&hide_border=false)<br/>
-
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-
-##
+## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shfwnz/shfwnz/output/github-snake-dark.svg" />
@@ -55,4 +85,13 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/shfwnz/shfwnz/output/github-snake.svg" />
 </picture>
 
-##
+## 🤝 Contact Me
+
+If you're looking for professional collaboration or exciting opportunities, I’d love to hear from you!
+
+- 📧 Email: [Email](ilhamdzaky2007@gmail.com)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shafwan-ilham-dzaky)
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/shfwnz">shfwnz</a></i>
+</div>
