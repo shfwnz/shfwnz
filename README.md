@@ -89,8 +89,8 @@ Brief description of what this project does and the technologies used.
 
 If you're looking for professional collaboration or exciting opportunities, I’d love to hear from you!
 
-- 📧 Email: [Email](ilhamdzaky2007@gmail.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shafwan-ilham-dzaky)
+- 📧 Email: [Email](mailto:ilhamdzaky2007@gmail.com){:target="\_blank"}
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shafwan-ilham-dzaky){:target="\_blank"}
 
 <div align="center">
   <i>⭐️ From <a href="https://github.com/shfwnz">shfwnz</a></i>
