@@ -67,8 +67,8 @@ Brief description of what this project does and the technologies used.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="100%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shfwnz&theme=dark&hide_border=false" alt="GitHub Streak" height="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="100%" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shfwnz&theme=dark&hide_border=false" alt="GitHub Streak" height="100%" width="50%" />
 </div>
 
 ## 👀 Profile Views
