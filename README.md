@@ -36,7 +36,7 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 <!-- ### Frontend -->
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,svelte,bootstrap,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwindcss" />
 </p>
 
 <!-- ### Backend -->
