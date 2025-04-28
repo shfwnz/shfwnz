@@ -25,6 +25,8 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
   style="border-radius: 10px; z-index: 90; position: relative;" 
 />
 
+<!-- z-index wont work in github -->
+
 ## 🌐 Socials
 
 <div align="left">
