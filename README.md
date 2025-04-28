@@ -15,12 +15,14 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 - 👯 Looking to collaborate on: Open source web projects
 - 💬 Ask me about: Web development, Anime
 
+<!-- Ryo -->
+
 <img 
   align="right"
   src="https://github.com/user-attachments/assets/e43e5661-f045-41c8-970c-af7583ab018a" 
   alt="sleepy-ryo" 
   width="180px"
-  style="border-radius: 10px;" 
+  style="border-radius: 10px; z-index: 90; position: relative;" 
 />
 
 ## 🌐 Socials
