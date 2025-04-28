@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ryo.gif" alt="GitHub Banner" width="100%" height="200px" style="object-fit: cover;" />
+  <img src="ryo.gif" alt="GitHub Banner" width="100%" height="200" />
 </div>
 
 # Hi there, I'm Shafwan Ilham Dzaky 👋
@@ -10,8 +10,8 @@
 
 I'm a passionate FullStack Developer focused on creating clean, efficient web solutions. I enjoy tackling complex problems and continuously learning new technologies to improve my skills.
 
-- 🔭 Currently working on: [stevie](https://github.com/Andersun71/stevie.git) <!-- [Your current project] -->
-- 🌱 Learning: Go for Web <!-- [What you're learning] -->
+- 🔭 Currently working on: [stevie](https://github.com/Andersun71/stevie.git)
+- 🌱 Learning: Go for Web
 - 👯 Looking to collaborate on: Open source web projects
 - 💬 Ask me about: Web development, Anime
 
@@ -21,64 +21,44 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
   align="right"
   src="https://github.com/user-attachments/assets/e43e5661-f045-41c8-970c-af7583ab018a" 
   alt="sleepy-ryo" 
-  width="180px"
-  style="border-radius: 10px; z-index: 90; position: relative;" 
+  width="180" 
 />
 
-<!-- z-index wont work in github -->
+<!-- z-index and style won't work in GitHub -->
 
 ## 🌐 Socials
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40px"></a>
-  <a href="https://www.instagram.com/shffky_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40px"></a>
-  <a href="https://discord.com/users/shfwn_" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40px" alt="discord logo" /></a>
+  <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"></a>
+  <a href="https://www.instagram.com/shffky_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"></a>
+  <a href="https://discord.com/users/shfwn_" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40"></a>
 </div>
 
 ## 💻 Tech Stack
 
-<!-- ### Frontend -->
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwindcss" alt="Frontend Tech Stack" />
 </p>
 
-<!-- ### Backend -->
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,go" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,go" alt="Backend Tech Stack" />
 </p>
 
-<!-- ### Database & Tools -->
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,npm,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,npm,figma" alt="Database and Tools" />
 </p>
-
-<!--
-## 🏆 Featured Projects
-
-### [Project Name](project-link)
-
-Brief description of what this project does and the technologies used.
-
-### [Another Project](project-link)
-
-Brief description of what this project does and the technologies used.
-
--->
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="50%" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shfwnz&theme=dark&hide_border=false" alt="GitHub Streak" height="50%" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shfwnz&theme=dark&hide_border=false" alt="GitHub Streak" width="50%" />
 </div>
 
 ## 👀 Profile Views
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/shfwnz/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/shfwnz/count.svg?" alt="Profile Views Counter" />
 </div>
 
 ## 🐍 Contribution Graph
@@ -86,7 +66,7 @@ Brief description of what this project does and the technologies used.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shfwnz/shfwnz/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shfwnz/shfwnz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shfwnz/shfwnz/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/shfwnz/shfwnz/output/github-snake.svg" />
 </picture>
 
 ## 🤝 Contact Me
