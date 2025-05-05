@@ -6,6 +6,10 @@
 
 > FullStack Web Developer | IT Enthusiast
 
+## 🚀 About Me
+
+I'm a passionate FullStack Developer focused on creating clean, efficient web solutions. I enjoy tackling complex problems and continuously learning new technologies to improve my skills.
+
 <!-- Ryo -->
 
 <img 
@@ -14,10 +18,6 @@
   alt="sleepy-ryo" 
   width="180" 
 />
-
-## 🚀 About Me
-
-I'm a passionate FullStack Developer focused on creating clean, efficient web solutions. I enjoy tackling complex problems and continuously learning new technologies to improve my skills.
 
 - 🔭 Currently working on: [stevie](https://github.com/Andersun71/stevie.git)
 - 🌱 Learning: Go for Web
