@@ -19,7 +19,8 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
   width="180" 
 />
 
-- 🔭 Currently working on: [school project](https://github.com/shfwnz/pkl-request)
+<!-- - 🔭 Currently working on: [school project](https://github.com/shfwnz) -->
+
 - 🌱 Learning: Go for Web
 - 👯 Looking to collaborate on: Open source web projects
 - 💬 Ask me about: Web development, Anime
