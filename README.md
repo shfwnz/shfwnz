@@ -21,9 +21,10 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 
 <!-- - 🔭 Currently working on: [school project](https://github.com/shfwnz) -->
 
-- 🌱 Learning: Go for Web
+- 🌱 Learning: Go for Web Development
 - 👯 Looking to collaborate on: Open source web projects
 - 💬 Ask me about: Web development, Anime
+- 📧 Reach me at: [ilhamdzaky2007@gmail.com](mailto:ilhamdzaky2007@gmail.com)
 
 <!-- z-index and style won't work in GitHub -->
 
@@ -71,8 +72,6 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 
 <div align="center">
     <img src="https://profile-counter.glitch.me/shfwnz/count.svg?" alt="Profile Views Counter" />
-    <br/>
-    <i>⭐️ From <a href="https://github.com/shfwnz">shfwnz</a></i>
 </div>
 
 ---
