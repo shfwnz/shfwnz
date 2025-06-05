@@ -38,7 +38,7 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwindcss" alt="Frontend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,vue,svelte,tailwindcss" alt="Frontend Tech Stack" />
 </p>
 
 <p align="left">
@@ -69,12 +69,10 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/shfwnz/shfwnz/output/github-snake.svg" />
 </picture>
 
----
-
 <div align="center">
     <img src="https://profile-counter.glitch.me/shfwnz/count.svg?" alt="Profile Views Counter" />
     <br/>
     <i>⭐️ From <a href="https://github.com/shfwnz">shfwnz</a></i>
 </div>
 
-##
+---
