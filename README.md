@@ -35,12 +35,7 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
   <a href="https://discord.com/users/shfwn_" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40"></a>
 </div>
 
-## </> Code
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!-- ## 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwindcss" alt="Frontend Tech Stack" />
@@ -52,7 +47,7 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,npm,figma" alt="Database and Tools" />
-</p> -->
+</p>
 
 ## 📊 GitHub Stats
 
@@ -61,11 +56,10 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shfwnz&theme=dark&hide_border=false" alt="GitHub Streak" width="50%" />
 </div>
 
-## 👀 Profile Views
+## </> Coding Activity
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/shfwnz/count.svg?" alt="Profile Views Counter" />
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🐍 Contribution Graph
 
@@ -75,15 +69,12 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/shfwnz/shfwnz/output/github-snake.svg" />
 </picture>
 
-## 🤝 Contact Me
-
-If you're looking for professional collaboration or exciting opportunities, I’d love to hear from you!
-
-- 📧 Email: [Email](mailto:ilhamdzaky2007@gmail.com)
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/shafwan-ilham-dzaky)
+---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/shfwnz">shfwnz</a></i>
+    <img src="https://profile-counter.glitch.me/shfwnz/count.svg?" alt="Profile Views Counter" />
+    <br/>
+    <i>⭐️ From <a href="https://github.com/shfwnz">shfwnz</a></i>
 </div>
 
 ##
