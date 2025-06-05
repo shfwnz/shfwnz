@@ -35,7 +35,11 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
   <a href="https://discord.com/users/shfwn_" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40"></a>
 </div>
 
-## 💻 Tech Stack
+## </> Code
+
+
+
+<!-- ## 💻 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwindcss" alt="Frontend Tech Stack" />
@@ -47,7 +51,7 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,npm,figma" alt="Database and Tools" />
-</p>
+</p> -->
 
 ## 📊 GitHub Stats
 
@@ -57,15 +61,6 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 </div>
 
 <!--START_SECTION:waka-->
-
-```txt
-HTML           11 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
-Bash           11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
-JSON           10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
-Lua            8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
-TypeScript     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-```
-
 <!--END_SECTION:waka-->
 
 ## 👀 Profile Views
