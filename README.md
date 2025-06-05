@@ -12,11 +12,11 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 
 <!-- Ryo -->
 
-<img 
+<img
   align="right"
-  src="https://github.com/user-attachments/assets/e43e5661-f045-41c8-970c-af7583ab018a" 
-  alt="sleepy-ryo" 
-  width="180" 
+  src="https://github.com/user-attachments/assets/e43e5661-f045-41c8-970c-af7583ab018a"
+  alt="sleepy-ryo"
+  width="180"
 />
 
 <!-- - 🔭 Currently working on: [school project](https://github.com/shfwnz) -->
@@ -55,6 +55,9 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
   <img src="https://github-readme-stats.vercel.app/api?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="50%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shfwnz&theme=dark&hide_border=false" alt="GitHub Streak" width="50%" />
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 👀 Profile Views
 
