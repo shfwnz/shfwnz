@@ -46,7 +46,7 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,npm,figma" alt="Database and Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,npm,figma" alt="Database and Tools" />
 </p>
 
 ## 📊 GitHub Stats
