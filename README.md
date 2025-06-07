@@ -47,7 +47,7 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,npm,figma" alt="Database and Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,npm" alt="Database and Tools" />
 </p>
 
 ## 📊 GitHub Stats
@@ -60,22 +60,6 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 ## </> Coding Activity
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 03 June 2025 - To: 04 June 2025
-
-HTML           11 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
-Bash           11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
-JSON           10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
-Lua            8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
-TypeScript     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-JavaScript     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-shell script   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-TSConfig       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-CSS            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-jsonc          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-```
-
 <!--END_SECTION:waka-->
 
 ## 🐍 Contribution Graph
