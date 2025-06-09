@@ -62,11 +62,11 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte           6 hrs 1 min     ███████████▒░░░░░░░░░░░░░   44.74 %
-JavaScript       2 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-PHP              2 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
-Markdown         1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-JSON             37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Svelte           6 hrs 1 min     █████████░░░░░░░░░░░░░░░░   35.74 %
+JavaScript       3 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   19.57 %
+PHP              3 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
+Markdown         1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+JSON             1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
 ```
 
 <!--END_SECTION:waka-->
