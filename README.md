@@ -62,6 +62,8 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 <!--START_SECTION:waka-->
 
 ```txt
+From: 03 June 2025 - To: 09 June 2025
+
 Svelte           6 hrs 1 min     ████████▓░░░░░░░░░░░░░░░░   34.68 %
 JavaScript       3 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
 PHP              3 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.45 %
