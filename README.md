@@ -32,7 +32,7 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"></a>
-  <a href="https://www.instagram.com/shffky_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"></a>
+  <a href="https://www.instagram.com/szuryuu" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"></a>
   <a href="https://discord.com/users/shfwn_" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40"></a>
 </div>
 
