@@ -19,7 +19,7 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
   width="180"
 />
 
-<!-- - 🔭 Currently working on: [school project](https://github.com/shfwnz) -->
+<!-- - 🔭 Currently working on: [school project](https://github.com/szuryuu) -->
 
 - 🌱 Learning: Go for Web Development
 - 👯 Looking to collaborate on: Open source web projects
@@ -53,8 +53,8 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shfwnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shfwnz&theme=dark&hide_border=false" alt="GitHub Streak" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=szuryuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=szuryuu&theme=dark&hide_border=false" alt="GitHub Streak" width="50%" />
 </div>
 
 ## </> Coding Activity
@@ -74,13 +74,13 @@ JSON             1 hr 1 min      █▓░░░░░░░░░░░░░�
 ## 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shfwnz/shfwnz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shfwnz/shfwnz/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/shfwnz/shfwnz/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/szuryuu/szuryuu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/szuryuu/szuryuu/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/szuryuu/szuryuu/output/github-snake.svg" />
 </picture>
 
 <div align="center">
-    <img src="https://profile-counter.glitch.me/shfwnz/count.svg?" alt="Profile Views Counter" />
+    <img src="https://profile-counter.glitch.me/szuryuu/count.svg?" alt="Profile Views Counter" />
 </div>
 
 ---
